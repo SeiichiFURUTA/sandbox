@@ -8,7 +8,7 @@
   <link rel="stylesheet" href="./css/style.css" />
 </head>
 <body>
-  <p>サンプル<img src="./images/face.png" alt="face"></p>
+  <p>サンプル<img src="./images/face.png" alt="face" /></p>
   <script src="./js/code.js"></script>
 </body>
 </html>
